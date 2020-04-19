@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicatieCaseteVideo", "AplicatieCaseteVideo\AplicatieCaseteVideo.csproj", "{D6DEDB87-E65D-4DC9-AD51-E7A7DE43D112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6DEDB87-E65D-4DC9-AD51-E7A7DE43D112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6DEDB87-E65D-4DC9-AD51-E7A7DE43D112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6DEDB87-E65D-4DC9-AD51-E7A7DE43D112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6DEDB87-E65D-4DC9-AD51-E7A7DE43D112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59DF9B6A-281E-4BB8-BFF2-4A875DA66343}
+	EndGlobalSection
+EndGlobal
